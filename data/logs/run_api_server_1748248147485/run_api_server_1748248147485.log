@@ -1,0 +1,6 @@
+2025-05-26 16:31:39,995 faiss.loader 2465 INFO     Loading faiss with AVX2 support.
+2025-05-26 16:31:40,026 faiss.loader 2465 INFO     Successfully loaded faiss with AVX2 support.
+2025-05-26 16:35:03,370 httpx        2465 INFO     HTTP Request: POST http://127.0.0.1:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-26 16:35:12,973 httpx        2465 INFO     HTTP Request: POST http://127.0.0.1:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-26 16:35:50,303 httpx        2465 INFO     HTTP Request: POST http://127.0.0.1:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-26 16:36:05,193 httpx        2465 INFO     HTTP Request: POST http://127.0.0.1:11434/v1/chat/completions "HTTP/1.1 200 OK"
